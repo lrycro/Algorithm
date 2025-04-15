@@ -1,6 +1,6 @@
 # Algorithm
 
-### 🌱👩🏻‍💻 Backjoon Online Judge 👩🏻‍💻🌱 </br></br>
+### 🌱👩🏻‍💻 Backjoon Online Judge 👩🏻‍💻🌱 </br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lrycro)](https://solved.ac/lrycro) </br>
 
